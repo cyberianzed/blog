@@ -23,8 +23,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Jose K James</h1>
-      <a
+      <h1>About Me</h1>
+      <!-- <a
         target="_blank"
         href="/rss.xml"
         class="rss-link"
@@ -39,7 +39,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           ></path><circle cx="6" cy="18" r="2"></circle>
         </svg>
         <span class="sr-only">RSS Feed</span>
-      </a>
+      </a> -->
 
       <p>
         Hey there! Welcome to my little corner on the internet – glad you found it!
@@ -62,7 +62,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         Every stage of my life seems to go something like this:
       </p>
       
-      <ol>
+      <ol class="list-decimal pl-4 text-lg leading-relaxed space-y-2">
         <li>Find something fascinating.</li>
         <li>Dive deep and grind to master it.</li>
         <li>Repeat.</li>
@@ -78,27 +78,20 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </p>
       
       <p>
-        Oh, and one thing: Don’t take life and my advice/perspective too seriously. 😉
+        Oh, and one thing: Don’t take life and my advice/perspective too seriously😉
       </p>
       
       <p>
-        Got questions about starting your own thing, content creation, app development, or just want to chat? Hit me up!
+        Got questions about starting your own thing, content creation, app development, or just want to chat? 
+        <br>Hit me up!
       </p>
       
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
+
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
+            {/* <div class="social-links">Hit me up!:</div> */}
             <Socials />
           </div>
         )
@@ -163,6 +156,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 </Layout>
 
 <style>
+    #main-content p {
+    line-height: 32px; /* Exact pixel value */
+  }
   /* ===== Hero Section ===== */
   #hero {
     @apply pb-6 pt-8;
@@ -177,7 +173,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
   }
   #hero p {
-    @apply my-2;
+    @apply my-5;
+    @apply text-xl ;
   }
   .social-wrapper {
     @apply mt-4 flex flex-col sm:flex-row sm:items-center;
