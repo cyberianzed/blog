@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "",
   desc: "A minimal, responsiv blog.",
   title: "Jose K James",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "me-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
