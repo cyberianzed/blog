@@ -1,13 +1,14 @@
 ---
-author: Sat Naing
-pubDatetime: 2024-09-25T10:25:54.547Z
-title: AstroPaper 13.0
-slug: demo
+author: Jose
+pubDatetime: 2024-11-14T11:32:00.000+05:30
+modDatetime: 
+title: This is the title
+slug: "demo"
 featured: false
-ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
+draft: false
 tags:
-  - release
-description: "AstroPaper Version 3: Elevating Your Web Experience with Astro v3 and Seamless View Transitions"
+  - test
+description: This is a description.
 ---
 
-We're excited to announce the release of AstroPaper v3, packed with new features, enhancements, and bug fixes to elevate your web development experience. Let's dive into the highlights of this release:
+In this post I will explain how to use the pre-commit Git hook to automate the input of the created (`pubDatetime`) and modified (`modDatetime`) in the AstroPaper blog theme frontmatter
