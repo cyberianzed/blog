@@ -24,7 +24,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <main id="main-content">
     <section id="hero">
       <h1>Hey there👋</h1>
-      <!-- <a
+      <a
         target="_blank"
         href="/rss.xml"
         class="rss-link"
@@ -39,53 +39,56 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           ></path><circle cx="6" cy="18" r="2"></circle>
         </svg>
         <span class="sr-only">RSS Feed</span>
-      </a> -->
+      </a>
+
+      <p>Welcome to my little corner on the internet – glad you found it!</p>
 
       <p>
-        Welcome to my little corner on the internet – glad you found it!
+        I’m an engineer turned entrepreneur(hopefully), creator, and speaker.
+        <br />I’m someone who loves experimenting with all kinds of things and
+        is curious about everything on this planet – and beyond. Alongside all
+        that, I keep busy creating, speaking, and building things that excite
+        me.
       </p>
-      
+
       <p>
-        I’m an engineer turned entrepreneur(hopefully), creator, and speaker. 
-        <br>I’m someone who loves experimenting with all kinds of things and is curious about everything on this planet – and beyond.
-        Alongside all that, I keep busy creating, speaking, and building things that excite me.
-      </p>
-      
-      <p>
-        A bit of a tech geek here.  <br>
-        I used to build apps with Flutter, which eventually led me to host workshops and mentor folks across different states.  
-        
+        A bit of a tech geek here. <br />
+        I used to build apps with Flutter, which eventually led me to host workshops
+        and mentor folks across different states.
+
         <!-- I’m one of those people who’s curious about nearly everything, from anything to Quantum Mechanics. -->
       </p>
-      
-      <p>
-        Every stage of my life seems to go something like this:
-      </p>
-      
-      <ol class="list-decimal pl-4 text-lg leading-relaxed space-y-2">
+
+      <p>Every stage of my life seems to go something like this:</p>
+
+      <ul
+        class="list-decimal space-y-2 pl-16 text-lg leading-relaxed marker:text-skin-accent"
+      >
         <li>Find something fascinating.</li>
         <li>Dive deep and grind to master it.</li>
         <li>Repeat.</li>
-      </ol>
-      
+      </ul>
+
       <p>
-        Right now, I’m fully in the “entrepreneurship” phase.  
-        I skipped placements to jump into this world – all in :&gt;
+        Right now, I’m fully in the <b>entrepreneurship</b> phase. I skipped placements
+        to jump all in to this world :&gt;
       </p>
-      
+
       <p>
-        When I’m not working, you’ll probably find me traveling, meeting new people, or overthinking some random complex stuff.
+        When I’m not working, you’ll probably find me traveling, meeting new
+        people, or overthinking some random complex stuff.
       </p>
-      
+
       <p>
-        Oh, and one thing: Don’t take life and my advice/perspective too seriously😉
+        Oh, and one thing: Don’t take life and my advice/perspective too
+        seriously😉
       </p>
-      
+
       <p>
-        Got questions about starting your own thing, content creation, app development, or just want to chat? 
-        <br>Hit me up!
+        Got questions about starting your own thing, content creation, app
+        development, or just want to chat?
+        <br />Hit me up!
       </p>
-      
 
       {
         // only display if at least one social link is enabled
@@ -156,8 +159,15 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 </Layout>
 
 <style>
-    #main-content p {
+  #main-content p {
     line-height: 32px; /* Exact pixel value */
+  }
+  /* For mobile screens, apply margin-left and margin-right */
+  @media (max-width: 640px) {
+    #main-content p {
+      margin-left: 16px; /* Adjust left margin */
+      margin-right: 16px; /* Adjust right margin */
+    }
   }
   /* ===== Hero Section ===== */
   #hero {
@@ -174,7 +184,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
   #hero p {
     @apply my-5;
-    @apply text-xl ;
+    @apply text-lg;
   }
   .social-wrapper {
     @apply mt-4 flex flex-col sm:flex-row sm:items-center;
