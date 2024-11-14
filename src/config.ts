@@ -76,6 +76,12 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "bmc",
+    href: "https://buymeacoffee.com/josekjames",
+    linkTitle: `buy a coffee for ${SITE.title.split(" ")[0]}`,
+    active: false,
+  },
+  {
     name: "Twitch",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Twitch`,
