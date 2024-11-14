@@ -11,4 +11,4 @@ tags:
 description: Good things takes time.
 ---
 
-Coming Soon...
+In this post I will explain how to use the pre-commit Git hook to automate the input of the created (`pubDatetime`) and modified (`modDatetime`) in the AstroPaper blog theme frontmatter
