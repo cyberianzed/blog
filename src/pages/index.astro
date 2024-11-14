@@ -44,7 +44,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>Welcome to my little corner on the internet – glad you found it!</p>
 
       <p>
-        I’m an engineer turned entrepreneur(hopefully), creator, and speaker.
+        I’m an engineer turned entrepreneur(hopefully), <a href="https://www.instagram.com/the.josekjames/">creator</a>, and <a href="https://www.linkedin.com/posts/josekjames_coaching-flutter-fluttercommunity-activity-7141786934816718848-HYVW">speaker</a>.
         <br />I’m someone who loves experimenting with all kinds of things and
         is curious about everything on this planet and beyond.
       </p>
@@ -60,7 +60,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>Every stage of my life seems to go something like this:</p>
 
       <ul
-        class="list-decimal space-y-2 pl-16 text-lg leading-relaxed marker:text-skin-accent"
+        class="list-decimal space-y-2 pl-16 text-base leading-relaxed marker:text-skin-accent"
       >
         <li>Find something fascinating.</li>
         <li>Dive deep and grind to master it.</li>
@@ -69,7 +69,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
       <p>
         Right now, I’m fully in the <b>entrepreneurship</b> phase. I skipped placements
-        to jump all in to this world :&gt;
+        to jump all in to this world:&gt;
       </p>
 
       <p>
@@ -167,6 +167,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply pb-6 pt-8;
   }
   #hero h1 {
+    margin-left: 3%;
     @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
   }
   #hero .rss-link {
@@ -177,7 +178,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
   #hero p {
     @apply my-5;
-    @apply text-xl ;
+    @apply text-base ;
   }
   .social-wrapper {
     @apply mt-4 flex flex-col sm:flex-row sm:items-center;
@@ -185,7 +186,14 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   .social-links {
     @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
   }
+  a {
+  text-decoration: none; /* Removes default underline */
+  border-bottom: 3px dashed #007acc;
+}
 
+a:hover {
+  color: #005fa3; /* Darker shade on hover */
+}
   /* ===== Featured & Recent Posts Sections ===== */
   #featured,
   #recent-posts {

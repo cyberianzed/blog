@@ -2,7 +2,7 @@
 author: Jose
 pubDatetime: 2024-11-14T11:32:00.000+05:30
 modDatetime: 
-title: Coming Soon...
+title: More Coming Soon...
 slug: "demo"
 featured: false
 draft: false
