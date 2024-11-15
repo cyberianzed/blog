@@ -24,7 +24,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <main id="main-content">
     <section id="hero">
       <h1>Hey there👋</h1>
-      <a
+      <a class="rss-link"
         target="_blank"
         href="/rss.xml"
         class="rss-link"
@@ -40,6 +40,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
         <span class="sr-only">RSS Feed</span>
       </a>
+    
 
       <p>Welcome to my little corner on the internet – glad you found it!</p>
 
@@ -194,6 +195,11 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 a:hover {
   color: #005fa3; /* Darker shade on hover */
 }
+/* Remove common styles from the link */
+.rss-link {
+  border-bottom: 0px dashed;
+}
+
   /* ===== Featured & Recent Posts Sections ===== */
   #featured,
   #recent-posts {
