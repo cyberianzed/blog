@@ -16,14 +16,19 @@ const { noMarginTop = false } = Astro.props;
   <div class="footer-wrapper">
     <Socials centered />
     <div class="copyright-wrapper">
-      <span> {currentYear} &#169; Jose</span>
+      <span>{currentYear} &#169; Jose</span>
       <span class="separator">&nbsp;|&nbsp;</span>
-      <span>Progress won’t be linear,you’ll get there.</span>
+      <span class="quote">Progress won’t be linear, you’ll get there.</span> {/* Add a class to the quote */}
     </div>
   </div>
 </footer>
 
+
 <style>
+  .quote {
+  white-space: normal; /* Ensure white space doesn’t prevent line breaks */
+}
+
   footer {
     @apply w-full;
   }
