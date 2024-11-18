@@ -72,6 +72,9 @@
   html {
     overflow-y: scroll;
   }
+  body {
+    padding-top: 64px; /* Adjust this value to the height of your nav-container */
+  }
 
   /* width */
   ::-webkit-scrollbar {

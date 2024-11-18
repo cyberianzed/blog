@@ -28,4 +28,4 @@ Now, I try to prioritize **clarity of mind** above all else. Instead of accumula
 
 > ### *Life success is a result of small decisions you make every day.* 
 > What you choose to eat, how you spend your time, who you spend it with, what you read, and most importantly, what you consistently think about."  
-> ***― Morgan Housel***
+> ***― Morgan Housel*** 
