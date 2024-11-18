@@ -8,6 +8,7 @@ import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
 import { SITE } from "@config";
+import PostComments from "@components/PostComments.astro";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -177,6 +178,7 @@ const nextPost =
         )
       }
     </div>
+    <PostComments />
   </main>
   <Footer />
 </Layout>
@@ -197,7 +199,8 @@ const nextPost =
     // Create the main container div
     const progressContainer = document.createElement("div");
     progressContainer.className =
-      "progress-container fixed top-0 z-10 h-1 w-full bg-skin-fill";
+      "progress-container fixed top-0 z-110 h-1 w-full bg-skin-fill";
+      progressContainer.style.zIndex = "110"; // Inline style to ensure priority
 
     // Create the progress bar div
     const progressBar = document.createElement("div");

@@ -14,21 +14,24 @@ const { activeNav } = Astro.props;
   <a id="skip-to-content" href="#main-content">Skip to content</a>
   <div class="nav-container">
     <div class="top-nav-wrap">
-      <a href="/" class="logo whitespace-nowrap flex items-center space-x-1.5">
-        {LOGO_IMAGE.enable ? (
-          <img
-            src={`/${LOGO_IMAGE.svg ? "favicon.svg" : "logo.png"}`}
-            alt={SITE.title}
-            width={LOGO_IMAGE.width}
-            height={LOGO_IMAGE.height}
-            class="logo-image"
-          />
-        ) : (
-          <span class="logo-title">{SITE.title}</span>
-        )}
-        <span class="logo-title">{SITE.title}</span> {/* This will display the title next to the logo */}
+      <a href="/" class="logo flex items-center space-x-1.5 whitespace-nowrap">
+        {
+          LOGO_IMAGE.enable ? (
+            <img
+              src={`/${LOGO_IMAGE.svg ? "favicon.svg" : "logo.png"}`}
+              alt={SITE.title}
+              width={LOGO_IMAGE.width}
+              height={LOGO_IMAGE.height}
+              class="logo-image"
+            />
+          ) : (
+            <span class="logo-title">{SITE.title}</span>
+          )
+        }
+        <span class="logo-title">{SITE.title}</span>
+        {/* This will display the title next to the logo */}
       </a>
-      
+
       <nav id="nav-menu">
         <button
           class="hamburger-menu focus-outline"
@@ -161,10 +164,16 @@ const { activeNav } = Astro.props;
     @apply absolute -top-full left-16 z-50 bg-skin-accent px-3 py-2 text-skin-inverted transition-all focus:top-4;
   }
   .nav-container {
-    @apply mx-auto flex max-w-3xl flex-col items-center justify-between sm:flex-row;
+    @apply mx-auto flex max-w-3xl flex-col items-center justify-between sm:flex-row bg-skin-fill/5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    backdrop-filter: blur(10px);
   }
   .top-nav-wrap {
-    @apply relative flex w-full items-start justify-between p-4 sm:items-center sm:py-8;
+    @apply relative flex w-full items-start justify-between p-4 sm:items-center sm:py-5;
   }
   .logo {
     @apply absolute py-1 text-xl font-semibold sm:static sm:text-2xl;
