@@ -2,10 +2,7 @@
 import { LOCALE, SITE } from "@config";
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
-import BuyMeCoffee from "@components/BuyMeCoffee.astro";  // Add this import
-// import { Analytics } from '@vercel/analytics/next';
-
-
+import BuyMeCoffee from "@components/BuyMeCoffee.astro";
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
@@ -135,15 +132,17 @@ const structuredData = {
         />
       )
     }
-
     <ViewTransitions />
 
     <script is:inline src="/toggle-theme.js" async></script>
     <script defer src="https://cloud.umami.is/script.js" data-website-id="174e28ec-6d2f-493c-b7df-d0655490acee"></script>
+    <script>
+      import { inject } from "@vercel/analytics";
+      inject()
+  </script>
   </head>
   <body>
     <slot />
     <BuyMeCoffee />
-    <!-- <Analytics /> -->
   </body>
 </html>
