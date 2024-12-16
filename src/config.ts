@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://www.joss.my/", // replace this with your deployed domain
   author: "Jose K James",
-  profile: "https://x.com/joseK_James",
+  profile: "https://x.com/thejosekjames",
   desc: "Personal Blog of Jose K James",
   title: "Jose K James",
   ogImage: "me-og.jpg",
@@ -53,7 +53,7 @@ export const SOCIALS: SocialObjects = [
 
   {
     name: "X",
-    href: "https://x.com/joseK_James",
+    href: "https://x.com/thejosekjames",
     linkTitle: `${SITE.title} on X`,
     active: true,
   },
