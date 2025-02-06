@@ -25,16 +25,24 @@ Kids don't care about the past or worry about the future. I think rules for bein
 
 But once in a while, practice being in the moment with yourself, enjoying the present without any distractions.
 
+<img title="" src="https://github.com/cyberianzed/blog/tree/main/src/assets/images/2025-02-06-17-45-08-image.png" alt="" width="286">
+
 What I do is smile and try to embrace what's beautiful around me. This really helps. We are truly living what our younger selves wished for. When you have that, why not celebrate it?  
 Yes, our desires increase, but what about your younger self? Do justice to them; embrace the kid you once were, and you may even have everything that kid once wished for and never celebrated or felt the joy of achieving them. Efforts and milestones doesn't matter if you don't give yourself time to enjoy the things you achieved, the effort you spent, and the people who helped you get here.
 
 ### Figuring Out What Really Matters
+
 They say money doesn't matter,  
 fitness doesn't matter!  
 Yes, it's totally subjective. But have you ever felt what it's like to be truly free of money? What it's like to be truly fit — to really say it doesn't matter? Or are they just saying it like "kittatha munthiri puliyayirikkum!?"  
 There are some experiences and questions in life you cannot answer from a book or from someone else, you have to try, experience, and achieve it with effort yourself.
 
+> If wisdom could be imparted through words alone, we’d all
+> be done here.
+
 Maybe you might enjoy the journey, the people alongside you, or the experiences more when you finaly reach your destiny. It will be different for everyone, but you never know which one you will be enjoying  the most. So, do what makes you alive—that's all that matters.
+
+<img title="" src="https://github.com/cyberianzed/blog/tree/main/src/assets/images/2025-02-06-17-44-07-image.png" alt="" width="229" data-align="center">
 
 If you want to enjoy your life, you want to be mentally alive.
 If you want to feel alive, you should be doing the things that make you alive.
@@ -45,13 +53,15 @@ Life's hard, but if you can figure out what you really want, you'll understand i
 
 Figure out what you really want in life and choose that life.
 
-
 ### Some Resouces if you found the topic intresting
+
 <ul class="list-decimal space-y-2 pl-16 text-base leading-relaxed marker:text-skin-accent">
     <li><a href="https://www.amazon.in/Focus-What-Matters-Darius-Foroux/dp/0143461842" target="_blank">Focus on What Matters by Khashayar Forouzfar</a></li>
     <li><a href="https://www.amazon.in/Top-Five-Regrets-Dying-Transformed/dp/140194065X" target="_blank">The Top Five Regrets of the Dying by Bronnie Ware </a></li>
-    <li><a href="https://www.amazon.in/Almanack-Naval-Ravikant-Wealth-Happiness/dp/9354893899" target="_blank">The Almanack Of Naval Ravikant by Eric Jorgenson</a></li>
+    <li><a href="https://www.navalmanack.com/" target="_blank">The Almanack Of Naval Ravikant by Eric Jorgenson</a></li>
     <li><a href="https://www.instagram.com/reel/DEnWVDwT1n2/?igsh=YTBwYzR1cDNwZHFv" target="_blank">Hrithik Roshan on Knowing what you want</a></li>
     <li><a href="https://www.youtube.com/watch?v=25LUF8GmbFU" target="_blank">Neurosurgeon quit his job when he understood its not his path</a></li>
 
 </ul>
+
+All the quotes and illustrations are from the book [The Almanack Of Naval Ravikant](https://www.navalmanack.com/)
