@@ -45,9 +45,9 @@ Maybe you might enjoy the journey, the people alongside you, or the experiences 
 
 <img title="" src="https://raw.githubusercontent.com/cyberianzed/blog/main/src/assets/images/2025-02-06-17-44-07-image.png" alt="" width="229" data-align="center">
 
-If you want to enjoy your life, you want to be mentally alive.
-If you want to feel alive, you should be doing the things that make you alive.
-If you want to know what makes you alive, you should understand what you really love to do.
+If you want to enjoy your life, you want to be mentally alive.  
+If you want to feel alive, you should be doing the things that make you alive.  
+If you want to know what makes you alive, you should understand what you really love to do.  
 If you want to understand what you really love to do, you should look into yourself and have clarity about yourself.
 
 Life's hard, but if you can figure out what you really want, you'll understand it's more risky to just "stay alive".   
@@ -57,9 +57,12 @@ Figure out what you really want in life and choose that life.
 ### Some Resouces if you found the topic intresting
 
 <ul class="list-decimal space-y-2 pl-16 text-base leading-relaxed marker:text-skin-accent">
+    <h3>Books</h3>
     <li><a href="https://www.amazon.in/Focus-What-Matters-Darius-Foroux/dp/0143461842" target="_blank">Focus on What Matters by Khashayar Forouzfar</a></li>
     <li><a href="https://www.amazon.in/Top-Five-Regrets-Dying-Transformed/dp/140194065X" target="_blank">The Top Five Regrets of the Dying by Bronnie Ware </a></li>
     <li><a href="https://www.navalmanack.com/" target="_blank">The Almanack Of Naval Ravikant by Eric Jorgenson</a></li>
+    <br>
+    <h3>Videos</h3>
     <li><a href="https://www.instagram.com/reel/DEnWVDwT1n2/?igsh=YTBwYzR1cDNwZHFv" target="_blank">Hrithik Roshan on Knowing what you want</a></li>
     <li><a href="https://www.youtube.com/watch?v=25LUF8GmbFU" target="_blank">Neurosurgeon quit his job when he understood its not his path</a></li>
 

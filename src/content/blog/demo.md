@@ -7,7 +7,7 @@ slug: "demo"
 featured: false
 draft: false
 tags:
-  - patient
+  - patience
 description: Good things takes time.
 ---
 
