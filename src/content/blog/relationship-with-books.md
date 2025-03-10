@@ -3,7 +3,7 @@ author: Jose K James
 pubDatetime: 2024-11-15T13:57:37.000+05:30
 modDatetime: 
 title: My Relationship with Books
-featured: true
+featured: false
 draft: false
 tags:
   - books

@@ -3,7 +3,7 @@ author: Jose K James
 pubDatetime: 2024-11-14T23:23:34.000+05:30
 modDatetime: 
 title: The Cost of Incomplete Mental Models in Decision Making
-featured: true
+featured: false
 draft: false
 tags:
   - decision making

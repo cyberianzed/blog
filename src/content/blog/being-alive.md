@@ -41,7 +41,7 @@ There are some experiences and questions in life you cannot answer from a book o
 
 > If wisdom could be imparted through words alone, we’d all be done here.
 
-Maybe you might enjoy the journey, the people alongside you, or the experiences more when you finaly reach your destiny. It will be different for everyone, but you never know which one you will be enjoying  the most. So, do what makes you alive—that's all that matters.
+Maybe you might [enjoy the journey](https://www.joss.my/posts/how-to-enjoy-your-life/), the people alongside you, or the experiences more when you finaly reach your destiny. It will be different for everyone, but you never know which one you will be enjoying  the most. So, do what makes you alive—that's all that matters.
 
 <img title="" src="https://raw.githubusercontent.com/cyberianzed/blog/main/src/assets/images/2025-02-06-17-44-07-image.png" alt="" width="229" data-align="center">
 
