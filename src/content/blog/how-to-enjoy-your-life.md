@@ -3,12 +3,12 @@ author: Jose K James
 pubDatetime: 2025-03-02T09:44:43.000+05:30
 modDatetime:
 title: How to Enjoy Your Life
-featured: false
+featured: true
 draft: false
 tags:
   - personal
   - philosophy
-description: demo
+description: My Dumb Philosophy on How to Enjoy your Life
 ---
 
 I used to rush through life—always planning, worrying, and trying to control every outcome. I never stopped to breathe or appreciate what was right in front of me. Over time, I realized that constantly thinking about the future and feeling frustrated when things didn’t go my way was draining my energy and taking away the joy of simply living.
