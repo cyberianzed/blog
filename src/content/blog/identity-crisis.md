@@ -1,4 +1,4 @@
-matter ---
+---
 author: Jose K James
 pubDatetime: 2025-04-28T13:21:49.000+05:30
 modDatetime: 
@@ -8,6 +8,6 @@ draft: true
 tags:
   - personal
   - philosophy
-description: 
+description: My Dumb Philosophy on understanding Identity Crisis
 ---
 
