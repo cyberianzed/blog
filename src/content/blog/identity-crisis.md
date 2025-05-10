@@ -12,8 +12,6 @@ tags:
 description: My Dumb Philosophy on understanding Identity Crisis
 ---
 
-# Identity Crisis
-
 I turned 23 today.
 
 Not sure if I should be celebrating, panicking, or laughing at how fast everything’s moving.
@@ -27,7 +25,7 @@ So yeah, this isn’t advice. It’s just me, trying to make sense of the mess. 
 
 ---
 
-**The Identity Shitstorm**
+### The Identity Shitstorm
 
 Lately, I’ve been having these deep conversations with my friends. 
 
@@ -66,47 +64,44 @@ Now you’re just... you. And you realize you have no idea who that is.
 
 ---
 
-**Identities We Adopt**
+### Identities We Adopt
 
 Before I get into the core, let’s talk about the kind of identities we all take up at some point. This might help you understand what identity really is, and how it messes (or helps) with your emotions.
 
-Football Fan
-Being a football fan, especially of a player like Messi, isn’t just about watching games — it becomes a part of who you are.  
+Football Fan  
+Being a football fan isn’t just about watching games — it becomes a part of who you are.  
 You wear the jersey, you know the stats, you feel personally attacked when someone disrespects your team.  
 The emotional highs and lows of a match day feel like your own wins and losses.  
 It gives you hype, pride, community  and most importantly, it gives you a **sense of belonging**.
 
-Cinephile
+Cinephile  
 There was a time you probably flexed your Marvel knowledge more than your exam results.  
 In school or college, this gives you status among friends.  
 You start feeling like you’re someone because of it.
 
-Politics
+Politics  
 Political identity can become all-consuming.  
 You align with an ideology, follow leaders like celebrities, argue passionately, and feel validated when your "side" wins.  
 It gives you a sense of control, a mission, a way to express your values.  
 But it can also trap you if you're not conscious of *why* you believe what you believe.
 
-Religion
 Religion is one of the most powerful and purposeful identities.  
 It gives you structure — rituals, prayers, do’s and don’ts — and a community that shares your worldview.  
 You feel a sense of meaning, purpose, and belonging.  
 Often, people become more religious with age, especially after retirement — because once their work identity ends, religion offers something constant and comforting to hold onto.  
 >It becomes a way to keep being someone, even when the world forgets who you were.
 
-**Labels Given by Others**
+**Labels Given by Others**  
+He’s the topper, She’s the singer, He’s the funny guy, She’s the quiet one.
 
-Some identities are just slapped onto you by others:
-
-He’s the topper, She’s the singer, He’s the funny guy, She’s the quiet one
-
+Some identities are just slapped onto you by others.  
 And over time, you start becoming what they said you are.  
 You carry these roles long after they stop serving you.  
 Sometimes you don’t even want it, but you keep playing the part because it’s what people expect.
 
 ---
 
-**Identity Isn’t the Problem. Lack of Awareness Is.**
+### Identity Isn’t the Problem. Lack of Awareness Is.
 
 There’s nothing wrong with adopting an identity.  
 We all do it. We need to. It gives us direction, purpose, belonging — all that human stuff.
@@ -138,7 +133,7 @@ Because deep down, **you’re living someone else’s story**.
 
 ---
 
-**Why Knowing Your Core Identity Matters**
+### Why Knowing Your Core Identity Matters
 
 We all want to be **somebody**.
 
@@ -155,7 +150,7 @@ This is why it takes us so long to figure out what actually makes us happy.
 
 ---
 
-**So What’s the Fix?**
+### So What’s the Fix?
 
 Try to figure out:
 
@@ -173,8 +168,8 @@ What you missed.
 What you obsessed over.  
 That stuff often helps you find what you’ve lost while growing up.
 
-
 ![Surpass the Dip or Quit! | Matheny Endurance | Coaching Badasses Worldwide](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrJhoYnbgDmA1C791PjPGaIdY_1n1d6WFpAw&s)
+
 >It’s not instant. Like every good thing, it starts with a dip.  
 It’s uncomfortable. It takes time.  
 But if you stick through it, you’ll come out feeling **aligned**, not confused.
@@ -184,19 +179,19 @@ You’ll find people who really get you.
 
 ---
 
-**Just a Heads Up!**
+### Just a Heads Up
 
-You’ll still be confused sometimes.  
+>You’ll still be confused sometimes.  
 But you’ll be a lot happier.
 
-Stop settling for cheap happiness.  
+Stop settling for cheap identity.  
 Because if you do, you’ll always feel like something’s missing later.
 
 ---
 
-**Final Note Before I Go:**
+### Final Note Before I Go:
 
 So yeah, I guess this might help you somewhere... or it might feel too preachy, sorry\!  
 But anyway, try enjoying your fucking amazing life.
 
-Because **YOLO**.
+Because **<span style="font-size:1.1em; color:#1ad9d9;">YOLO.</span>**
