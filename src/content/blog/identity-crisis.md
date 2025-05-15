@@ -150,7 +150,7 @@ This is why it takes us so long to figure out what actually makes us happy.
 
 ---
 
-### So What’s the Fix?
+### So What’s helped me?
 
 Try to figure out:
 
@@ -195,3 +195,11 @@ So yeah, I guess this might help you somewhere... or it might feel too preachy, 
 But anyway, try enjoying your fucking amazing life.
 
 Because **<span style="font-size:1.1em; color:#1ad9d9;">YOLO.</span>**
+
+### People who inspired me to write this
+
+<ul class="list-decimal space-y-2 pl-16 text-base leading-relaxed marker:text-skin-accent">
+    <li><a href="https://www.kiranjohns.com/posts/personal/light-at-the-end-of-the-tunnel-2023" target="_blank">Finding the Light at the End of the Tunnel by Kiran Johns</a></li>
+    <li><a href="https://www.linkedin.com/in/aparna-vivek-065130203/" target="_blank">Aparna Vivek</a></li>
+    <li>All the friends who have shared their thoughts with me, helping me grow wise enough to write this.</li>
+</ul>
