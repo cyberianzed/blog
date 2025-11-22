@@ -7,9 +7,9 @@ featured: true
 draft: false
 tags: 
   - imposter syndrome
-  - healiing
+  - Healing
   - understanding oneself
-description: fixing my huge imposter syndrome
+description: Breaking through imposter syndrome and perfectionism as a founder. Why nothing ever feels good enough, where these feelings really come from, and how to start breaking free from the mental trap.
 ---
 For a huge chunk of my life, I was living in a mental prison built by **Imposter Syndrome.**
 
@@ -54,9 +54,11 @@ You are constantly running simulations of **infinite external variables** to cal
 
 If you relate to this, you can feel that pain in your chest right now. It’s the burden of seeing too much.
 
-It creates a specific kind of hell: **The Superhero Level Awareness Shit Spiral**
+It creates a specific kind of hell: **The Superhero Level Awareness Shit Spiral!**
 
-<img title="" src="https://raw.githubusercontent.com/cyberianzed/blog/main/src/assets/images/spiderman-meme.png" alt="" width="300" data-align="left">
+<img class="no-border" title="" src="https://raw.githubusercontent.com/cyberianzed/blog/main/src/assets/images/spiderman-meme.png" alt="" width="300" style="float: left">
+
+<div style="clear: both;"></div>
 
 1. You are aware of the problem.
 2. You know the solution.
