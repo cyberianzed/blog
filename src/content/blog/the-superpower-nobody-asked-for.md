@@ -9,7 +9,7 @@ tags:
   - imposter syndrome
   - Healing
   - understanding oneself
-description: Breaking through imposter syndrome and perfectionism as a founder. Why nothing ever feels good enough, where these feelings really come from, and how to start breaking free from the mental trap.
+description: Breaking through imposter syndrome and perfectionism as a founder.
 ---
 For a huge chunk of my life, I was living in a mental prison built by **Imposter Syndrome.**
 
